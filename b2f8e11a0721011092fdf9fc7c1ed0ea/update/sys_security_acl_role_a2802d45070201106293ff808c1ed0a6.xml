@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-03 15:24:21</sys_created_on>
+        <sys_id>a2802d45070201106293ff808c1ed0a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_774026_mike_te_0_test1.x_774026_mike_te_0.test1_user</sys_name>
+        <sys_package display_value="Mike Test 1" source="x_774026_mike_te_0">b2f8e11a0721011092fdf9fc7c1ed0ea</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mike Test 1">b2f8e11a0721011092fdf9fc7c1ed0ea</sys_scope>
+        <sys_security_acl display_value="x_774026_mike_te_0_test1">e2802d45070201106293ff808c1ed0a3</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_a2802d45070201106293ff808c1ed0a6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-03 15:24:21</sys_updated_on>
+        <sys_user_role display_value="x_774026_mike_te_0.test1_user" name="x_774026_mike_te_0.test1_user">b5802545070201106293ff808c1ed035</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
